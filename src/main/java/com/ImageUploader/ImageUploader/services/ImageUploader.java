@@ -3,6 +3,8 @@ package com.ImageUploader.ImageUploader.services;
 import org.springframework.web.multipart.MultipartFile;
 import java.util.List;
 
+
+//Interface for Image Uploader
 public interface ImageUploader {
 
 
